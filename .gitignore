@@ -1,0 +1,8 @@
+# bytecode files
+*.class
+
+# package files
+*.jar
+
+# idea files
+*.iml
